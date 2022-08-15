@@ -1456,7 +1456,210 @@
       }
     }
   },
-  "Dark mode": {},
+  "Dark mode": {
+    "Specific": {
+      "Dark": {
+        "Background": {
+          "1": {
+            "value": "#101828",
+            "type": "color"
+          },
+          "2": {
+            "value": "#1d2939",
+            "type": "color"
+          },
+          "3": {
+            "value": "#344054",
+            "type": "color"
+          },
+          "Inverse": {
+            "value": "#fcfcfd",
+            "type": "color"
+          }
+        },
+        "Background states": {
+          "Hover": {
+            "value": "#667085",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "#667085",
+            "type": "color"
+          },
+          "Highlight": {
+            "value": "#475467",
+            "type": "color"
+          },
+          "Active": {
+            "value": "#475467",
+            "type": "color"
+          },
+          "Disabled": {
+            "value": "#1d2939",
+            "type": "color"
+          }
+        },
+        "Semantic": {
+          "Highlight": {
+            "value": "#e60022",
+            "type": "color"
+          },
+          "Highlight Light": {
+            "value": "#ffe5e5",
+            "type": "color"
+          },
+          "Error": {
+            "value": "#cc0000",
+            "type": "color"
+          },
+          "Error light": {
+            "value": "#ffa8a8",
+            "type": "color"
+          },
+          "Warning": {
+            "value": "#fdb022",
+            "type": "color"
+          },
+          "Warning Light": {
+            "value": "#fec84b",
+            "type": "color"
+          },
+          "Success": {
+            "value": "#32d583",
+            "type": "color"
+          },
+          "Success Light": {
+            "value": "#6ce9a6",
+            "type": "color"
+          },
+          "Info": {
+            "value": "#146fee",
+            "type": "color"
+          },
+          "Info Light": {
+            "value": "#d1e9ff",
+            "type": "color"
+          }
+        },
+        "Semantic states": {
+          "Highlight Hover": {
+            "value": "#e82121",
+            "type": "color"
+          },
+          "Highlight Pressed": {
+            "value": "#e82121",
+            "type": "color"
+          },
+          "Highlight Active": {
+            "value": "#cc0000",
+            "type": "color"
+          },
+          "Highlight Disabled": {
+            "value": "#d0d5dd",
+            "type": "color"
+          },
+          "Error Hover": {
+            "value": "#990000",
+            "type": "color"
+          },
+          "Error Active": {
+            "value": "#cc0000",
+            "type": "color"
+          },
+          "Error Disabled": {
+            "value": "#ffacac",
+            "type": "color"
+          },
+          "Warning Hover": {
+            "value": "#fec84b",
+            "type": "color"
+          },
+          "Warning Active": {
+            "value": "#fdb022",
+            "type": "color"
+          },
+          "Warning Disabled": {
+            "value": "#fffaeb",
+            "type": "color"
+          },
+          "Success Hover": {
+            "value": "#32d583",
+            "type": "color"
+          },
+          "Success Active": {
+            "value": "#027a48",
+            "type": "color"
+          },
+          "Success Disabled": {
+            "value": "#d7fde6",
+            "type": "color"
+          },
+          "Info Hover": {
+            "value": "#1849a9",
+            "type": "color"
+          },
+          "Info Active": {
+            "value": "#175cd3",
+            "type": "color"
+          },
+          "Info Disabled": {
+            "value": "#d1e9ff",
+            "type": "color"
+          }
+        },
+        "Text": {
+          "1": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "2": {
+            "value": "#fcfcfd",
+            "type": "color"
+          },
+          "3": {
+            "value": "#eaecf0",
+            "type": "color"
+          },
+          "Inverse": {
+            "value": "#1d2939",
+            "type": "color"
+          }
+        },
+        "Text states": {
+          "Hover": {
+            "value": "#d0d5dd",
+            "type": "color"
+          },
+          "Active": {
+            "value": "#fcfcfd",
+            "type": "color"
+          },
+          "Disabled": {
+            "value": "#98a2b3",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "#d0d5dd",
+            "type": "color"
+          }
+        },
+        "Border": {
+          "1": {
+            "value": "#475467",
+            "type": "color"
+          },
+          "2": {
+            "value": "#98a2b3",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f2f4f7",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
